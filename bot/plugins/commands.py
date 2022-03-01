@@ -102,7 +102,7 @@ async def start(bot, update):
 
     ],[
 
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
+        InlineKeyboardButton('🤖 Mʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ', url='https://t.me/CrazyBotszGrp')
 
     ],[
 
