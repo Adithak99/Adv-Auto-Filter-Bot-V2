@@ -184,7 +184,7 @@ async def about(bot, update):
 
     buttons = [[
 
-        InlineKeyboardButton('Home ⚡', callback_data='start'),
+        InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ 🛠', url='https://t.me/CrazyBotsz'),
 
         InlineKeyboardButton('Close 🔐', callback_data='close')
 
