@@ -142,7 +142,7 @@ async def help(bot, update):
 
     buttons = [[
 
-        InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ 🛠', callback_data='start'),
+        InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ 🛠', url='https://t.me/CrazyBotsz),
 
         InlineKeyboardButton('About 🚩', callback_data='about')
 
